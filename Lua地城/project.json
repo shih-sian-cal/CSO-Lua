@@ -1,0 +1,8 @@
+{
+    "game": ["common.lua", "game.lua", "ClientIdentifier.Shared.lua", "Game.ClientIdentifier.Main.lua", "Speedometer.Shared.lua", 
+        "Game.Speedometer.Main.lua"
+    ], 
+    "ui": ["common.lua", "ui.lua", "ClientIdentifier.Shared.lua", "UI.ClientIdentifier.Main.lua", "Speedometer.Shared.lua", 
+        "UI.Speedometer.Main.lua"
+    ]
+}
